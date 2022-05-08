@@ -20,7 +20,7 @@ public class testTerreno {
         double base, altura;
         int codigo, manzana;
         codigo = 0;
-        for (int i = 0; i < cantTerreno; i++) {
+        for (int i = 0; i <     ; i++) {
             codigo++;
             terreno.setCodigo(codigo);
             System.out.println("Ingrese base y altura");
